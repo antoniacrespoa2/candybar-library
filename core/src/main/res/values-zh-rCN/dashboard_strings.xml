@@ -160,7 +160,7 @@
     <string name="pref_data_cache_clear_dialog">您确认要清除缓存吗？</string>
     <string name="pref_data_cache_cleared">缓存已清除</string>
     <string name="pref_data_request">清除图标申请数据</string>
-    <string name="pref_data_request_desc">删除图标申请数据，它们是在申请未适配程序的是偶产生的。</string>
+    <string name="pref_data_request_desc">删除图标申请数据，它们是在申请未适配程序的时候产生的。</string>
     <string name="pref_data_request_clear_dialog">您确认要清除图标申请数据吗？</string>
     <string name="pref_data_request_cleared">图标申请数据已清除</string>
     <string name="pref_premium_request_header">高级图标申请</string>
